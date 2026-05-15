@@ -1,8 +1,8 @@
 
 
-#This project is a high-performance, multi-threaded **Network Port Scanner** designed to provide comprehensive insights into a #target's security posture. Built using Python, it goes beyond simple connectivity checks by integrating service identification, OS #fingerprinting, and risk assessment into a single, streamlined tool.
+This project is a high-performance, multi-threaded **Network Port Scanner** designed to provide comprehensive insights into a target's security posture. Built using Python, it goes beyond simple connectivity checks by integrating service identification, OS fingerprinting, and risk assessment into a single, streamlined tool.
 
-#The scanner leverages concurrency to handle large port ranges efficiently, while providing a professional, color-coded CLI interface #for real-time monitoring and "live attack insights."
+The scanner leverages concurrency to handle large port ranges efficiently, while providing a professional, color-coded CLI interface for real-time monitoring and "live attack insights."
 
 ---
 
